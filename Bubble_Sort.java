@@ -2,7 +2,7 @@ package week3_assignment3;
 
 import java.util.*;
 
-public class bubbleSort {
+public class Bubble_Sort {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);

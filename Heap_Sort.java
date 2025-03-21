@@ -1,6 +1,6 @@
 package week3_assignment3;
 import java.util.*;
-public class HeapSort {
+public class Heap_Sort {
 	public static void main(String[] args) {
 		 Scanner sc = new Scanner(System.in);
 	        System.out.print("Enter the number of elements: ");

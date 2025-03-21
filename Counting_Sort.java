@@ -2,7 +2,7 @@ package week3_assignment3;
 
 import java.util.*;
 
-public class CountingSort {
+public class Counting_Sort {
 
 	public static void main(String[] args) {
 		 Scanner sc = new Scanner(System.in);

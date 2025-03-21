@@ -1,6 +1,6 @@
 package week3_assignment3;
 import java.util.*;
-public class MergeSortAlgo {
+public class Merge_Sort_Algo {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
